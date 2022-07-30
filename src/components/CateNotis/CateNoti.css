@@ -1,0 +1,17 @@
+.cateItem {
+    padding: 5px;
+    padding-left: 15px;
+}
+.cateItemsList {
+    padding: 0 !important;
+}
+.cateName {
+    color: black;
+}
+.cateItem:hover {
+    background-color: #eeeeee;
+    border-radius: 10px;
+}
+.MuiAccordionDetails-root.css-15v22id-MuiAccordionDetails-root {
+    padding: 0 !important;
+}

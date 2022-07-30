@@ -1,0 +1,19 @@
+.textContent {
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    font-size: 1rem !important;
+    text-overflow: ellipsis;
+    color: black;
+    font-weight: 300 !important;
+}
+.textContent p {
+    margin-bottom: 0 !important;
+}
+@media only screen and (max-width: 400px) {
+    .feed {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+}
